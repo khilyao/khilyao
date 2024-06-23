@@ -1,7 +1,7 @@
 <h1>Beyond the Code Horizon! 🌅</h1>
 <h3>Hi there, I'm Oleksandr 👋</h3>
 
-- 🔭 working on **a lot of different stuff**
+- 🔭 Working on **a lot of different stuff**
 - 🌱 Always learning **always growing**
 - 📫 How to reach me: **sfwew19@gmail.com**
 - ⚡ Fun fact: **I believe in the power of code to make the world a better place.**
